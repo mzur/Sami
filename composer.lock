@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/blackfireio/php-sdk.git",
-                "reference": "6b460beb4ec16e80783b2482ee1c268acd79aa7b"
+                "reference": "6086471eb91a7b0d9775ca1254c21245d722be43"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/blackfireio/php-sdk/zipball/6b460beb4ec16e80783b2482ee1c268acd79aa7b",
-                "reference": "6b460beb4ec16e80783b2482ee1c268acd79aa7b",
+                "url": "https://api.github.com/repos/blackfireio/php-sdk/zipball/6086471eb91a7b0d9775ca1254c21245d722be43",
+                "reference": "6086471eb91a7b0d9775ca1254c21245d722be43",
                 "shasum": ""
             },
             "require": {
@@ -62,7 +62,7 @@
                 "uprofiler",
                 "xhprof"
             ],
-            "time": "2015-10-16 09:05:15"
+            "time": "2015-10-16 11:36:23"
         },
         {
             "name": "michelf/php-markdown",
